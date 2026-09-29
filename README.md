@@ -4,6 +4,8 @@
 > Built with **Google Antigravity 2.0**, **Google Stitch MCP**, **Gemini 3.5 Flash**, **Next.js 15 App Router**, and **Tailwind CSS v4**.  
 > Specially crafted for **GDG on Campus MET** & **Pre-DevFest Nashik 2026**.
 
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fkandekarharshal21-netizen%2Fcodecrafter2.0&env=GEMINI_API_KEY&envDescription=Google%20Gemini%20API%20Key%20from%20Google%20AI%20Studio&envLink=https%3A%2F%2Faistudio.google.com%2Fapikey)
+
 **Code Roaster (Desi Edition)** pairs technical code review with humorous, punchy Indian-dev commentary (Hinglish/Marathi slang + spicy developer metaphors). It detects real bugs, classifies them into `FATAL BUG`, `CODE SMELL`, and `OPTIMIZATION`, delivers a comedic critique across 3 intensity levels (**Dry**, **Sharp**, **Savage**), and gives you clean, corrected code with 1-click **Apply to Editor**.
 
 ---
